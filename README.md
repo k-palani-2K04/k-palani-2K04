@@ -1,55 +1,51 @@
 ﻿<!-- ═══════════════════════════════════════════════ -->
-<!--                  HERO BANNER                   -->
+<!--               HERO — GIF + NAME                -->
 <!-- ═══════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2a2a,40:0d3b3b,100:0a1f2e&height=200&section=header&text=K%20%20Palani&fontSize=78&fontColor=00e5ff&fontAlignY=52&animation=fadeIn&desc=&descAlignY=75" width="100%" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2a2a,40:0d3b3b,100:0a1f2e&height=12&section=header" width="100%" />
 
 <div align="center">
-
-<h3>
-
-```
-  FullStack AI Developer
-```
-
-</h3>
-
-<br/>
-
-<!-- Social Buttons -->
-<a href="https://github.com/k-palani-2K04">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/k-palani-19453628a">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://instagram.com/_learner3.0">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:kpalanigithub@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/k-palani-2K04">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00bfa5?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-</a>
-
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="right" valign="middle" width="42%">
+      <img src="Assets/output.gif" width="260" alt="K Palani" />
+    </td>
+    <td width="8%"></td>
+    <td align="left" valign="middle" width="50%">
+      <h1>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=2000&pause=99999&color=00E5FF&center=false&vCenter=true&repeat=false&width=280&height=55&lines=K+Palani" alt="K Palani" />
+      </h1>
+      <p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1200&color=00BFA5&center=false&vCenter=true&repeat=true&width=360&height=30&lines=FullStack+AI+Developer;Student+%C2%B7+Builder+%C2%B7+AI+Enthusiast;Building+Intelligent+Web+Apps+%F0%9F%9A%80" alt="Subtitle" />
+      </p>
+      <br/>
+      <a href="https://github.com/k-palani-2K04">
+        <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://www.linkedin.com/in/k-palani-19453628a">
+        <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br/>
+      <a href="https://instagram.com/_learner3.0">
+        <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+      <a href="mailto:kpalanigithub@gmail.com">
+        <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <br/>
+      <a href="https://github.com/k-palani-2K04">
+        <img src="https://img.shields.io/badge/PORTFOLIO-00bfa5?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+      </a>
+      <br/><br/>
+      <img src="https://komarev.com/ghpvc/?username=k-palani-2K04&label=Profile+Views&color=00bfa5&style=flat-square" />
+      &nbsp;
+      <img src="https://img.shields.io/github/followers/k-palani-2K04?label=Followers&color=00bfa5&style=flat-square" />
+    </td>
+  </tr>
+</table>
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--                 ANIMATED GIF                   -->
-<!-- ═══════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="Assets/output.gif" width="520" alt="K Palani – FullStack AI Developer" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f2e,40:0d3b3b,100:0a2a2a&height=12&section=footer" width="100%" />
 
 ---
 
@@ -162,14 +158,6 @@
 <!-- ═══════════════════════════════════════════════ -->
 <!--                  FOOTER WAVE                   -->
 <!-- ═══════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=k-palani-2K04&label=Profile+Views&color=00bfa5&style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/k-palani-2K04?label=Followers&color=00bfa5&style=flat-square" />
-</div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f2e,40:0d3b3b,100:0a2a2a&height=130&section=footer" width="100%" />
 
