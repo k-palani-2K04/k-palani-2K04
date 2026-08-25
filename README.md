@@ -1,4 +1,4 @@
-﻿<!-- ═══════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════ -->
 <!--               HERO — GIF + NAME                -->
 <!-- ═══════════════════════════════════════════════ -->
 
@@ -122,34 +122,6 @@
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--               GITHUB ANALYTICS                 -->
-<!-- ═══════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=k-palani-2K04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00bfa5&text_color=c9d1d9" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-palani-2K04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" height="170" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=k-palani-2K04&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00bfa5&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=c9d1d9" width="55%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=k-palani-2K04&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=k-palani-2K04&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00e5ff&line=00bfa5&point=00e5ff&area=true" width="100%" />
 
 </div>
 
